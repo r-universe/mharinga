@@ -1,10 +1,10 @@
 [
   {
-    "package": "insurancerating",
+    "package": "spatialrisk",
     "oncran": true
   },
   {
-    "package": "spatialrisk",
+    "package": "insurancerating",
     "oncran": true
   }
 ]

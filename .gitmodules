@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "insurancerating"]
-	path = insurancerating
-	url = https://github.com/mharinga/insurancerating
-	shallow = true
-	registered = true
 [submodule "spatialrisk"]
 	path = spatialrisk
 	url = https://github.com/mharinga/spatialrisk
+	shallow = true
+	registered = true
+[submodule "insurancerating"]
+	path = insurancerating
+	url = https://github.com/mharinga/insurancerating
 	shallow = true
 	registered = true
